@@ -6,7 +6,7 @@ function Contact  () {
       <div aria-hidden="true" class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"> </div>
     <div class="mx-auto max-w-2xl text-center">
     <h2 class="text-4xl font-semibold tracking-tight text-balance text-black sm:text-5xl">Contact</h2>
-    <p class="mt-2 text-lg/8 text-gray-400"> to chat? Just shoot me a dm with a direct question on twitter and I'll respond whenever I can. I will ignore all soliciting.</p>
+    <p class="mt-2 text-lg/8 text-gray-400">Want to chat? Just shoot me a dm with a direct question on twitter and I'll respond whenever I can. I will ignore all soliciting.</p>
   </div>
    <form action="#" method="POST" class="mx-auto mt-16 max-w-xl sm:mt-20">
     <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
